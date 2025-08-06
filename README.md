@@ -28,7 +28,6 @@ A restaurant ordering system with intuitive interface for food delivery.
 - User profiles and order history
 - Mobile-responsive design
 
-*
 
 ---
 
